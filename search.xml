@@ -4,26 +4,100 @@
   
     
     <entry>
-      <title>天翼的爹</title>
-      <link href="/2025/04/18/comments/"/>
-      <url>/2025/04/18/comments/</url>
+      <title>文章三</title>
+      <link href="/2025/04/19/%E6%96%87%E7%AB%A0%E4%B8%89/"/>
+      <url>/2025/04/19/%E6%96%87%E7%AB%A0%E4%B8%89/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> OnePiece </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 海贼王 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title></title>
-      <link href="/2025/04/15/0-%E5%BC%95%E8%A8%80/"/>
-      <url>/2025/04/15/0-%E5%BC%95%E8%A8%80/</url>
+      <title>文章二</title>
+      <link href="/2025/04/19/%E6%96%87%E7%AB%A0%E4%BA%8C/"/>
+      <url>/2025/04/19/%E6%96%87%E7%AB%A0%E4%BA%8C/</url>
       
-        <content type="html"><![CDATA[<hr><h2 id="title-1stdate-2025-4-15updated-2025-4-15"><a href="#title-1stdate-2025-4-15updated-2025-4-15" class="headerlink" title="title:1stdate:2025-4-15updated:2025-4-15"></a>title:1st<br>date:2025-4-15<br>updated:2025-4-15</h2><h2 id="欢迎来到Mr-4的Blog"><a href="#欢迎来到Mr-4的Blog" class="headerlink" title="欢迎来到Mr.4的Blog"></a>欢迎来到Mr.4的Blog</h2>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> 研究生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>article</title>
+      <link href="/2025/04/19/2nd-article/"/>
+      <url>/2025/04/19/2nd-article/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 创想空间 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 创意 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文章一</title>
+      <link href="/2025/04/15/1-st-article/"/>
+      <url>/2025/04/15/1-st-article/</url>
+      
+        <content type="html"><![CDATA[<h2 id="欢迎来到Mr-4的Blog"><a href="#欢迎来到Mr-4的Blog" class="headerlink" title="欢迎来到Mr.4的Blog"></a>欢迎来到Mr.4的Blog</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 读书室 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 阅读 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -44,42 +118,9 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>comments</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>archives</title>
       <link href="/archives/index.html"/>
       <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>movies</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -99,9 +140,31 @@
     
     
     <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }  /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }  /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>movies</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>comments</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -113,6 +176,28 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
